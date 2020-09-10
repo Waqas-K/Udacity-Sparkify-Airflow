@@ -25,6 +25,7 @@ Below is the Graph view of the dag implemented
 
 # Airflow Configuration:
 Use the Airflow Connection options to set up your:
+
 -- AWS credentials
 
 -- Postgres connection to Redshift database
